@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EMPACTS
 - 👀 I’m interested in SDGs Startups
-- - 📫 How to reach me empacts.org
+-  📫 How to reach me empacts.org
 
 <!---
 EMPACTS/EMPACTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
